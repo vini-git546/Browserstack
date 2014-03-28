@@ -1,7 +1,27 @@
-Automate Java Samples
----------------------
+Automate Snippets for Cross Browser Compatibility Check on Cloud using Selenium Webdriver + Junit 4 through Browser Stack
+-------------------------------------------------------------------------------------------------------------------------
 
-This repository contains code samples from http://www.browserstack.com/automate/java. Please feel free to clone the repo and use the example code.
+Covered Following Things.
 
 
-Do remember to switch the USERNAME and ACCESS_KEY with your own browserstack credentials.
+                 ***************************************************************************
+                                       ***********************************
+                                              *******************
+                                                     *****
+                                                       *
+
+1) General snippet for using junit4 with Selenium webdriver through Browser Stack access [passing parameters]
+
+2) Single run [one browser + one OS parameters]
+
+3) Parallel run [ Multiple OS + Multiple browsers by simplsy uing Runner help class]
+
+
+ *******************  Do remember to switch the USERNAME and ACCESS_KEY with your own browserstack credentials. ***********************
+
+
+                    ***************************************************************************
+                                      ***********************************
+                                              *******************
+                                                     *****
+                                                       *
