@@ -12,7 +12,7 @@ Covered Following Things.
 
 1) General snippet for using junit4 with Selenium webdriver through Browser Stack access [passing parameters]
 
-2) Single run [one browser + one OS parameters]
+2) Single run [one browser + one OS parameters] & Custom code
 
 3) Parallel run [ Multiple OS + Multiple browsers by simplsy uing Runner help class]
 
